@@ -21,9 +21,9 @@ Output
 
 Example output of the program might look like this:
 
-address of charvar = 0x7fffa0fccebf
-address of charvar - 1 = 0x7fffa0fcccbe
-address of charvar + 1 = 0x7fffa0fccec0
-address of intvar = 0x7fffa0fcccac
-address of intvar - 1 = 0x7fffa0fccc98
-address of intvar + 1 = 0x7fffa0fcccc0
+    address of charvar = 0x7fffa0fccebf
+    address of charvar - 1 = 0x7fffa0fcccbe
+    address of charvar + 1 = 0x7fffa0fccec0
+    address of intvar = 0x7fffa0fcccac
+    address of intvar - 1 = 0x7fffa0fccc98
+    address of intvar + 1 = 0x7fffa0fcccc0
